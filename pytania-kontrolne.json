@@ -1,0 +1,22 @@
+[
+  {
+    "pytanie": "Do czego służy Arduino UNO i jak sterować silnikiem?",
+    "zrodlo": "arduino.md"
+  },
+  {
+    "pytanie": "Czym jest sterownik PLC i jakie są języki jego programowania?",
+    "zrodlo": "plc.md"
+  },
+  {
+    "pytanie": "Jak Python może współpracować ze sterownikami PLC przez Modbus TCP?",
+    "zrodlo": "python.md"
+  },
+  {
+    "pytanie": "Jak działa dwusegmentowa brama teleskopowa K-11 MINI?",
+    "zrodlo": "brama-k11-mini.md"
+  },
+  {
+    "pytanie": "Co to jest prompt injection i jak chronić klucze API?",
+    "zrodlo": "bezpieczenstwo-ai.md"
+  }
+]
